@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitanya-bendalam
-- 🔭 I’m currently working as Technical Lead for Node Js stack development
+- 🔭 I’m currently working as Technical Lead for NodeJs stack development
 - 🌱 I’m currently learning AI tools and Python  
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: visit https://www.linkedin.com/in/chaitanya-bendalam/
